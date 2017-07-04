@@ -11,6 +11,7 @@ public class TestFlight {
 		flight te = new flight();
 		int result=te.addnum(10, 20);
 		assertTrue(result==30);
+		//this is for junit testing
 		
 	}
 
